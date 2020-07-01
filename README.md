@@ -57,12 +57,5 @@ The gattai puzzles are presented in separate folders.
 - **wing-3** [3 sudokus, x2 1-nonet overlap]
 - **wing-5** [5 sudokus, x2 1-nonet overlap sudokus, x2 2-nonet overlap]
 
-## Unsolved
-
-[GattaiExplainer](https://github.com/1to9only/GattaiExplainer) cannot solve these:
-- Daddy of All Gattai #1 (November 11, 2007).unsolved.txt"
-- Mother of All Gattai #1 (October 27, 2007).unsolved.txt"
-- samurai-nj3h-01.unsolved.txt"
-
 .
 
